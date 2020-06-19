@@ -1,0 +1,15 @@
+# By Leonardo A Carrilho
+# Initial version scripting 2018
+# 
+# You can alter that scripts and improve him. Feel free for that.
+# I Just asking you for keep the credits.
+# 
+# Enjoy it! ;)
+
+# VMHost1 - Dell Server
+# KVM Qemu Virsh
+
+# That are some bash scripts to handle tasks in this server;
+# The cron will run some those bashs - in general before shutdown and/or after reboot;
+
+# Some scripts here will be fired from a front-end page.
